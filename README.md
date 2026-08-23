@@ -10,7 +10,7 @@
 
 <!-- 1. BANNER — your custom Life OS SVG -->
 <p align="center">
-  <img src="./life-os-banner.svg" width="100%" alt="Rishi Ventrapragada — Data Science" />
+  <img src="./github-banner.svg" width="100%" alt="Rishi Ventrapragada — Data Science" />
 </p>
 
 <!-- 2. PROFILE VIEWS -->
