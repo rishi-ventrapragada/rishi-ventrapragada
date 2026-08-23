@@ -81,7 +81,7 @@ Data Science · Web Development · Prompt Engineering · Video Editing · Vibe C
 
 <p align="center"><b>Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,notion,ps,figma" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda,notion,ps,figma" alt="tools" />
 </p>
 
 <p align="center"><b>Platforms</b></p>
