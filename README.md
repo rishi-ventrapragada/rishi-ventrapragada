@@ -71,12 +71,12 @@ Data Science · Web Development · Prompt Engineering · Video Editing · Vibe C
 
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs" alt="langs" />
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs" alt="frameworks" />
 </p>
 
 <p align="center"><b>DS &amp; ML</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,opencv,sklearn" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=py,opencv,sklearn" alt="ds ml" />
 </p>
 
 <p align="center"><b>Tools</b></p>
@@ -86,8 +86,10 @@ Data Science · Web Development · Prompt Engineering · Video Editing · Vibe C
 
 <p align="center"><b>Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,mysql,supabase,vercel,netlify,gcp" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=github,mysql,supabase,vercel,netlify,gcp" alt="platforms" />
 </p>
+<br />
+
 ---
 
 <!-- 6. GITHUB ANALYTICS -->
