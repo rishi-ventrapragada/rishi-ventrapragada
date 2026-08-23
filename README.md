@@ -107,12 +107,34 @@ Data Science · Web Development · Prompt Engineering · Video Editing · Vibe C
 ---
 
 <!-- 7. CURRENT FOCUS -->
+<!-- 7. CURRENT FOCUS -->
 <h3 align="center">Current Focus</h3>
 
-| 🎯 Academics | 🧩 Coding | 🚀 Building |
-|:---:|:---:|:---:|
-| Core Data Science | DSA in Java | Projects |
-| 9 CGPA | Competitive | GDG @ VJIT |
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">🎯 Academics</th>
+        <th align="center">🧩 Coding</th>
+        <th align="center">🚀 Building</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">Core Data Science</td>
+        <td align="center">DSA in Java</td>
+        <td align="center">Projects</td>
+      </tr>
+      <tr>
+        <td align="center">9 CGPA</td>
+        <td align="center">LeetCode</td>
+        <td align="center">GDG @ VJIT</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
 
 ---
 
@@ -120,9 +142,6 @@ Data Science · Web Development · Prompt Engineering · Video Editing · Vibe C
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
-  
   <a href="mailto:rishiventrapragada23@gmail.com"><img src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=fafafa" /></a>
   <a href="https://discord.com/users/rishi.exe"><img src="https://img.shields.io/badge/Discord-08070c?style=for-the-badge&logo=discord&logoColor=b7a4f5" /></a>
 </p>
-
-<p align="center"><i>"{{Closing quote or motto.}}"</i></p>
