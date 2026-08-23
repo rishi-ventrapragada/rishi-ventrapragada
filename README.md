@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>{{One-line tagline — e.g. "CS (Data Science) student who likes turning ideas into things that run."}}</b>
+  <b>Probably Multitasking or Building</b>
 </p>
 
 ---
@@ -32,34 +32,28 @@
 ### About Me
 
 ```yaml
-name: Rishi Ventrapragada
-location: Hyderabad, India
-institution: Vidya Jyothi Institute of Technology (VJIT)
-role: CS (Data Science) Student & Developer
+Name: V Sai Rishi
+Location: Hyderabad, India
+Institution: Vidya Jyothi Institute of Technology (VJIT)
+Role: CSE (Data Science) Student
 
-focus:
+Focus:
   - Data Science & Machine Learning
-  - Full-stack development (Django)
   - DSA & problem solving
 
-currently_learning:
+Currently learning:
   - Java & Object-Oriented Programming
   - Data Structures & Algorithms
-  - Django
+  - AI Full-Stack Development
 
-passion: "{{Your one-line motto.}}"
 ```
 
 </td>
 <td valign="top" width="45%">
 
-### Quick Stats
+### Skills
 
-🎓 CS (Data Science) @ VJIT, Hyderabad
-💡 Data Science · Web Development
-🛠️ Java · Python · Django · MySQL
-🌱 Exploring ML & GDG projects
-📫 {{Best way to reach you}}
+Data Science · Web Development · Prompt Engineering · Video Editing · Vibe Coding
 
 </td>
 </tr>
@@ -67,34 +61,41 @@ passion: "{{Your one-line motto.}}"
 
 ---
 
-<!-- 5. TECH ARSENAL -->
-<h3 align="center">Tech Arsenal</h3>
+<!-- 5. TECH -->
+<h3 align="center">Tech</h3>
 
-<p align="center"><b>Languages &amp; Frameworks</b></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,django" alt="langs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts" alt="langs" />
 </p>
 
-<p align="center"><b>Tools &amp; Platforms</b></p>
+<p align="center"><b>Frameworks</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,firebase,vercel" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs" alt="langs" />
 </p>
 
-<p align="center"><b>Highlighted Skills</b></p>
+<p align="center"><b>DS &amp; ML</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-6d28d9?style=for-the-badge&logoColor=fafafa" />
-  <img src="https://img.shields.io/badge/Java-c026d3?style=for-the-badge&logoColor=fafafa" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-b7a4f5?style=for-the-badge&logoColor=08070c" />
+  <img src="https://skillicons.dev/icons?i=numpy,opencv,sklearn" alt="tools" />
 </p>
 
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,notion,ps,figma" alt="tools" />
+</p>
+
+<p align="center"><b>Platforms</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,mysql,supabase,vercel,netlify,gcp" alt="tools" />
+</p>
 ---
 
 <!-- 6. GITHUB ANALYTICS -->
 <h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishi-ventrapragada&show_icons=true&hide_border=true&title_color=b7a4f5&icon_color=c026d3&text_color=fafafa&bg_color=0f0e15" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-ventrapragada&layout=compact&hide_border=true&title_color=b7a4f5&text_color=fafafa&bg_color=0f0e15" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=rishi-ventrapragada&show_icons=true&hide_border=true&title_color=b7a4f5&icon_color=c026d3&text_color=fafafa&bg_color=0f0e15" alt="stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishi-ventrapragada&layout=compact&hide_border=true&title_color=b7a4f5&text_color=fafafa&bg_color=0f0e15" alt="top langs" />
 </p>
 
 <p align="center">
@@ -106,11 +107,10 @@ passion: "{{Your one-line motto.}}"
 <!-- 7. CURRENT FOCUS -->
 <h3 align="center">Current Focus</h3>
 
-| 🎯 Academics | 🚀 Coding | 🧩 Building |
+| 🎯 Academics | 🧩 Coding | 🚀 Building |
 |:---:|:---:|:---:|
-| Core CS subjects | DSA in Java | Django projects |
-| Strong fundamentals | Daily practice | GDG @ VJIT |
-| {{item}} | {{item}} | {{item}} |
+| Core Data Science | DSA in Java | Projects |
+| 9 CGPA | Competitive | GDG @ VJIT |
 
 ---
 
@@ -118,9 +118,9 @@ passion: "{{Your one-line motto.}}"
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/{{your-handle}}"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=fafafa" /></a>
-  <a href="mailto:{{you@email.com}}"><img src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=fafafa" /></a>
-  <a href="https://x.com/{{your-handle}}"><img src="https://img.shields.io/badge/X-08070c?style=for-the-badge&logo=x&logoColor=b7a4f5" /></a>
+  
+  <a href="mailto:rishiventrapragada23@gmail.com"><img src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=fafafa" /></a>
+  <a href="https://discord.com/users/rishi.exe"><img src="https://img.shields.io/badge/Discord-08070c?style=for-the-badge&logo=discord&logoColor=b7a4f5" /></a>
 </p>
 
 <p align="center"><i>"{{Closing quote or motto.}}"</i></p>
