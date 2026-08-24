@@ -90,8 +90,8 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
   <!-- Gemini (Soft Indigo/Violet) -->
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=fafafa" alt="Gemini" />
   
-  <!-- Groq (Muted Coral) -->
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=fafafa" alt="Groq" />
+  <!-- Grok (Muted Coral) -->
+  <img src="https://img.shields.io/badge/Grok-1E1E24?style=for-the-badge&logo=x&logoColor=fafafa" alt="Grok" />
   
   <!-- Ollama (Deep Monochromatic Dark) -->
   <img src="https://img.shields.io/badge/Ollama-24292F?style=for-the-badge&logo=ollama&logoColor=fafafa" alt="Ollama" />
