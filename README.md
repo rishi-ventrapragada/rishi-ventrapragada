@@ -36,6 +36,7 @@ Name: V Sai Rishi
 Location: Hyderabad, India
 Institution: Vidya Jyothi Institute of Technology (VJIT)
 Role: CSE (Data Science) Student
+Year: 2nd Year
 
 Focus:
   - Data Science & Machine Learning
