@@ -53,7 +53,7 @@ Currently learning:
 
 ### Skills
 
-Data Science · Web Development · Prompt Engineering · Video Editing · Vibe Coding
+Data Science · Full-Stack Web Development · Prompt Engineering · Video Editing · Vibe Coding
 
 </td>
 </tr>
