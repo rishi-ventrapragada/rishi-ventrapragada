@@ -75,13 +75,25 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
   <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs" alt="frameworks" />
 </p>
 
-<p align="center"><b>AI &amp; LLMs</b></p>
+<p align="center"><b>AI Models &amp; Platforms</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-08070c?style=for-the-badge&logo=openai&logoColor=b7a4f5" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-08070c?style=for-the-badge&logo=anthropic&logoColor=c026d3" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-08070c?style=for-the-badge&logo=googlegemini&logoColor=6d28d9" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Groq-08070c?style=for-the-badge&logo=groq&logoColor=b7a4f5" alt="Groq" />
-  <img src="https://img.shields.io/badge/Ollama-08070c?style=for-the-badge&logo=ollama&logoColor=fafafa" alt="Ollama" />
+  <!-- Claude Code / Anthropic (Warm Terracotta) -->
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=fafafa" alt="Claude Code" />
+  
+  <!-- NVIDIA Nemotron (Muted NVIDIA Sage Green) -->
+  <img src="https://img.shields.io/badge/NVIDIA%20Nemotron-76B900?style=for-the-badge&logo=nvidia&logoColor=111111" alt="NVIDIA Nemotron" />
+  
+  <!-- ChatGPT / OpenAI (Muted Pine Slate) -->
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=fafafa" alt="ChatGPT" />
+  
+  <!-- Gemini (Soft Indigo/Violet) -->
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=fafafa" alt="Gemini" />
+  
+  <!-- Groq (Muted Coral) -->
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=fafafa" alt="Groq" />
+  
+  <!-- Ollama (Deep Monochromatic Dark) -->
+  <img src="https://img.shields.io/badge/Ollama-24292F?style=for-the-badge&logo=ollama&logoColor=fafafa" alt="Ollama" />
 </p>
 
 <p align="center"><b>DS &amp; ML</b></p>
