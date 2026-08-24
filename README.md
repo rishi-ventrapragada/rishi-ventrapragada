@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>Probably Multitasking or Building</b>
+  <b>Probably Multitasking or Building Something</b>
 </p>
 
 ---
