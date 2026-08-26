@@ -75,7 +75,7 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
   <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs" alt="frameworks" />
 </p>
 
-<p align="center"><b>AI Models &amp; Platforms</b></p>
+<p align="center"><b>AI Models &amp; LLMs</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-08070c?style=for-the-badge&logo=anthropic&logoColor=c026d3" alt="Claude" />
   <!-- Claude Code / Anthropic (Warm Terracotta) -->
