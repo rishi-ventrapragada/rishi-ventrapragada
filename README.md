@@ -45,7 +45,8 @@ Focus:
 Currently learning:
   - Java & Object-Oriented Programming
   - Data Structures & Algorithms
-  - AI Full-Stack Development 
+  - AI Full-Stack Development
+  - C++
 
 ```
 
