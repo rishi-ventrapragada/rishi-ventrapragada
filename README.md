@@ -150,7 +150,7 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
         <td align="center">Projects</td>
       </tr>
       <tr>
-        <td align="center">9 CGPA</td>
+        <td align="center">8.5 CGPA</td>
         <td align="center">LeetCode</td>
         <td align="center">GDG @ VJIT</td>
       </tr>
