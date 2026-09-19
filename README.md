@@ -67,12 +67,12 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts" alt="langs" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,ts,dart" alt="langs" />
 </p>
 
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,django,fastapi,tailwind,astro,vite" alt="frameworks" />
 </p>
 
 <p align="center"><b>AI Models &amp; LLMs</b></p>
@@ -109,7 +109,7 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
 
 <p align="center"><b>Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,mysql,supabase,vercel,netlify,gcp" alt="platforms" />
+  <img src="https://skillicons.dev/icons?i=github,mysql,postgres,supabase,vercel,render,netlify,gcp" alt="platforms" />
 </p>
 <br />
 
@@ -124,12 +124,11 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-ventrapragada&hide_border=true&bg_color=08070c&color=b7a4f5&line=c026d3&point=fafafa&area=true&area_color=6d28d9" alt="activity graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=rishi-ventrapragada&hide_border=true&bg_color=08070c&color=b7a4f5&line=c026d3&point=fafafa&area=true&area_color=6d28d9" alt="activity graph" />
 </p>
 
 ---
 
-<!-- 7. CURRENT FOCUS -->
 <!-- 7. CURRENT FOCUS -->
 <h3 align="center">Current Focus</h3>
 
