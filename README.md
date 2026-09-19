@@ -109,7 +109,10 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
 
 <p align="center"><b>Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,mysql,postgres,supabase,vercel,render,netlify,gcp" alt="platforms" />
+  <img src="https://skillicons.dev/icons?i=github,mysql,postgres,supabase,vercel,netlify,gcp" alt="platforms" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
 </p>
 <br />
 
