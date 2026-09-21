@@ -132,41 +132,11 @@ Data Science · Full-Stack Web Development · Prompt Engineering · Video Editin
 
 ---
 
-<!-- 7. CURRENT FOCUS -->
-<h3 align="center">Current Focus</h3>
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">🎯 Academics</th>
-        <th align="center">🧩 Coding</th>
-        <th align="center">🚀 Building</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">Core Data Science</td>
-        <td align="center">DSA in Java</td>
-        <td align="center">Projects</td>
-      </tr>
-      <tr>
-        <td align="center">8.5 CGPA</td>
-        <td align="center">LeetCode</td>
-        <td align="center">GDG @ VJIT</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<br />
-
----
-
-<!-- 8. CONNECT -->
+<!-- 7. CONNECT -->
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:rishiventrapragada23@gmail.com"><img src="https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=fafafa" /></a>
   <a href="https://discord.com/users/rishi.exe"><img src="https://img.shields.io/badge/Discord-08070c?style=for-the-badge&logo=discord&logoColor=b7a4f5" /></a>
+  <a href="https://linkedin.com/in/rishi-ventrapragada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
